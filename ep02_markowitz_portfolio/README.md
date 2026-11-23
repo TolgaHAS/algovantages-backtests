@@ -2,6 +2,11 @@
 
 Quantitative portfolio study by **Tolga Has** ([tolgahas.com](https://tolgahas.com)) applying Markowitz SLSQP Sharpe maximization across five liquid global ETFs (`SPY`, `QQQ`, `TLT`, `GLD`, `VNQ`) over `2,512` overlapping trading days (`2016-11-21` to `2026-11-18`, risk-free rate `4.0%`).
 
+## Video & Written Study
+- **Full Video Breakdown (YouTube — 10:36):** https://youtu.be/yJAKpqx0kvg
+- **Vertical Shorts Summary (YouTube Shorts — 00:46):** https://youtube.com/shorts/TQK7paMDOSw
+- **Written Research Study (`tolgahas.com`):** [English](https://tolgahas.com/en/projects/algovantages/markowitz-portfolio-optimization/) · [Türkçe](https://tolgahas.com/projeler/algovantages/markowitz-portfolio-optimization/)
+
 ## Empirical Results (`$10,000` Initial Capital)
 
 | Portfolio | Final Value | CAGR | Annual Volatility | Sharpe Ratio | Max Drawdown | Key Allocation |
