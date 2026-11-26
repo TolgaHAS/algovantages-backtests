@@ -4,7 +4,7 @@ Quantitative backtest by **Tolga Has** ([tolgahas.com](https://tolgahas.com)) co
 
 ## Video & Written Study
 - **Full Video Breakdown (YouTube — 12:29):** https://youtu.be/P81Tjn9mXLg
-- **Vertical Shorts Summary (YouTube Shorts — 00:54):** https://youtube.com/shorts/UUJ4EUxH4Qw
+- **Vertical Shorts Summary (YouTube Shorts — 00:54):** https://youtube.com/shorts/c1YqfTXVMnQ
 - **Written Research Study (`tolgahas.com`):** [English](https://tolgahas.com/en/projects/algovantages/tqqq-volatility-decay/) · [Türkçe](https://tolgahas.com/projeler/algovantages/tqqq-volatility-decay/)
 
 ## Empirical Results (`$10,000` Initial Capital, `4.0%` Risk-Free Benchmark)
